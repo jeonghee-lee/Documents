@@ -1,0 +1,7 @@
+https://alexop.dev/posts/understanding-claude-code-full-stack/
+
+https://alexop.dev/prompts/claude/claude-create-agent/
+
+https://github.com/affaan-m/everything-claude-code
+
+claude code dangerously-skip-permissions
